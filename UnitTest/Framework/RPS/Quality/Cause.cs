@@ -1,0 +1,48 @@
+using vNextGermanyDistributorUT;
+using Xunit;
+using System;
+using SeleniumGeneratedClasses.Framework.RPS.Services.Quality.Cause ;
+namespace UnitTest.Framework.RPS.Services.Quality
+{
+    public class Cause_New
+    {
+        [Fact]        
+        public void New_UT()
+        {
+            var config = SeleniumConfig.Current;
+            using (var screen = new SeleniumGeneratedClasses.Framework.RPS.Services.Quality.Cause.Cause())
+            {
+                // screen.NavigateToScreen<CauseCollectionView>();
+                throw new NotImplementedException();
+            }
+            
+        }
+    }
+    public class Cause_Update
+    {
+        [Fact]        
+        public void Update_UT()
+        {
+            var config = SeleniumConfig.Current;
+            using (var screen = new SeleniumGeneratedClasses.Framework.RPS.Services.Quality.Cause.Cause())
+            {
+                // screen.NavigateToScreen<CauseCollectionView>();
+                throw new NotImplementedException();
+            }
+
+        }
+    }
+    public class Cause_Delete
+    {
+        [Fact]        
+        public void Delete_UT()
+        {
+            var config = SeleniumConfig.Current;
+            using (var screen = new SeleniumGeneratedClasses.Framework.RPS.Services.Quality.Cause.Cause())
+            {
+                // screen.NavigateToScreen<CauseCollectionView>();
+                throw new NotImplementedException();
+            }
+        }
+    }
+}
