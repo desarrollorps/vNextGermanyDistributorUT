@@ -12,8 +12,8 @@ namespace UnitTest.Framework.RPS.Services.General
             var config = SeleniumConfig.Current;
             using (var screen = new SeleniumGeneratedClasses.Framework.RPS.Services.General.Category.Category())
             {
-                // screen.NavigateToScreen<CategoryCollectionView>();
-                throw new NotImplementedException();
+                screen.NavigateToScreen<CategoryCollectionView>();
+                //throw new NotImplementedException();
             }
             
         }
@@ -26,8 +26,8 @@ namespace UnitTest.Framework.RPS.Services.General
             var config = SeleniumConfig.Current;
             using (var screen = new SeleniumGeneratedClasses.Framework.RPS.Services.General.Category.Category())
             {
-                // screen.NavigateToScreen<CategoryCollectionView>();
-                throw new NotImplementedException();
+                screen.NavigateToScreen<CategoryCollectionView>();
+                //throw new NotImplementedException();
             }
 
         }
@@ -40,8 +40,8 @@ namespace UnitTest.Framework.RPS.Services.General
             var config = SeleniumConfig.Current;
             using (var screen = new SeleniumGeneratedClasses.Framework.RPS.Services.General.Category.Category())
             {
-                // screen.NavigateToScreen<CategoryCollectionView>();
-                throw new NotImplementedException();
+                screen.NavigateToScreen<CategoryCollectionView>();
+                //throw new NotImplementedException();
             }
         }
     }
