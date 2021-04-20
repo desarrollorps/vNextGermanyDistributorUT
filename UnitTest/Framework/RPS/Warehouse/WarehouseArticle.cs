@@ -9,12 +9,15 @@ namespace UnitTest.Framework.RPS.Services.Warehouse
         [Fact]        
         public void New_UT()
         {
+            /*
             var config = SeleniumConfig.Current;
             using (var screen = new SeleniumGeneratedClasses.Framework.RPS.Services.Warehouse.WarehouseArticle.WarehouseArticle())
             {
-                // screen.NavigateToScreen<WarehouseArticleVMQueryView>();
-                throw new NotImplementedException();
+                screen.NavigateToScreen<WarehouseArticleVMQueryView>();
+                
             }
+            */
+            throw new NotImplementedException();
             
         }
     }
@@ -23,12 +26,15 @@ namespace UnitTest.Framework.RPS.Services.Warehouse
         [Fact]        
         public void Update_UT()
         {
+            /*
             var config = SeleniumConfig.Current;
             using (var screen = new SeleniumGeneratedClasses.Framework.RPS.Services.Warehouse.WarehouseArticle.WarehouseArticle())
             {
-                // screen.NavigateToScreen<WarehouseArticleVMQueryView>();
-                throw new NotImplementedException();
+                screen.NavigateToScreen<WarehouseArticleVMQueryView>();
+                
             }
+            */
+            throw new NotImplementedException();
 
         }
     }
@@ -37,12 +43,15 @@ namespace UnitTest.Framework.RPS.Services.Warehouse
         [Fact]        
         public void Delete_UT()
         {
+            /*
             var config = SeleniumConfig.Current;
             using (var screen = new SeleniumGeneratedClasses.Framework.RPS.Services.Warehouse.WarehouseArticle.WarehouseArticle())
             {
-                // screen.NavigateToScreen<WarehouseArticleVMQueryView>();
-                throw new NotImplementedException();
+                screen.NavigateToScreen<WarehouseArticleVMQueryView>();
+                
             }
+            */
+            throw new NotImplementedException();
         }
     }
 }

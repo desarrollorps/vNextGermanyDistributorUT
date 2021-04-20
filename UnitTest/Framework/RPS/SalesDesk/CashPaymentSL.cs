@@ -9,12 +9,15 @@ namespace UnitTest.Framework.RPS.Services.SalesDesk
         [Fact]        
         public void New_UT()
         {
+            /*
             var config = SeleniumConfig.Current;
             using (var screen = new SeleniumGeneratedClasses.Framework.RPS.Services.SalesDesk.CashPaymentSL.CashPaymentSL())
             {
-                // screen.NavigateToScreen<CashPaymentSLCollectionView>();
-                throw new NotImplementedException();
+                screen.NavigateToScreen<CashPaymentSLCollectionView>();
+                
             }
+            */
+            throw new NotImplementedException();
             
         }
     }
@@ -23,12 +26,15 @@ namespace UnitTest.Framework.RPS.Services.SalesDesk
         [Fact]        
         public void Update_UT()
         {
+            /*
             var config = SeleniumConfig.Current;
             using (var screen = new SeleniumGeneratedClasses.Framework.RPS.Services.SalesDesk.CashPaymentSL.CashPaymentSL())
             {
-                // screen.NavigateToScreen<CashPaymentSLCollectionView>();
-                throw new NotImplementedException();
+                screen.NavigateToScreen<CashPaymentSLCollectionView>();
+                
             }
+            */
+            throw new NotImplementedException();
 
         }
     }
@@ -37,12 +43,15 @@ namespace UnitTest.Framework.RPS.Services.SalesDesk
         [Fact]        
         public void Delete_UT()
         {
+            /*
             var config = SeleniumConfig.Current;
             using (var screen = new SeleniumGeneratedClasses.Framework.RPS.Services.SalesDesk.CashPaymentSL.CashPaymentSL())
             {
-                // screen.NavigateToScreen<CashPaymentSLCollectionView>();
-                throw new NotImplementedException();
+                screen.NavigateToScreen<CashPaymentSLCollectionView>();
+                
             }
+            */
+            throw new NotImplementedException();
         }
     }
 }

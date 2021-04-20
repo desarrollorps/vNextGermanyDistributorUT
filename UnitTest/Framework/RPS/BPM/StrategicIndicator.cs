@@ -9,12 +9,15 @@ namespace UnitTest.Framework.RPS.Services.BPM
         [Fact]        
         public void New_UT()
         {
+            /*
             var config = SeleniumConfig.Current;
             using (var screen = new SeleniumGeneratedClasses.Framework.RPS.Services.BPM.StrategicIndicator.StrategicIndicator())
             {
-                // screen.NavigateToScreen<StrategicIndicatorCollectionView>();
-                throw new NotImplementedException();
+                screen.NavigateToScreen<StrategicIndicatorCollectionView>();
+                
             }
+            */
+            throw new NotImplementedException();
             
         }
     }
@@ -23,12 +26,15 @@ namespace UnitTest.Framework.RPS.Services.BPM
         [Fact]        
         public void Update_UT()
         {
+            /*
             var config = SeleniumConfig.Current;
             using (var screen = new SeleniumGeneratedClasses.Framework.RPS.Services.BPM.StrategicIndicator.StrategicIndicator())
             {
-                // screen.NavigateToScreen<StrategicIndicatorCollectionView>();
-                throw new NotImplementedException();
+                screen.NavigateToScreen<StrategicIndicatorCollectionView>();
+                
             }
+            */
+            throw new NotImplementedException();
 
         }
     }
@@ -37,12 +43,15 @@ namespace UnitTest.Framework.RPS.Services.BPM
         [Fact]        
         public void Delete_UT()
         {
+            /*
             var config = SeleniumConfig.Current;
             using (var screen = new SeleniumGeneratedClasses.Framework.RPS.Services.BPM.StrategicIndicator.StrategicIndicator())
             {
-                // screen.NavigateToScreen<StrategicIndicatorCollectionView>();
-                throw new NotImplementedException();
+                screen.NavigateToScreen<StrategicIndicatorCollectionView>();
+                
             }
+            */
+            throw new NotImplementedException();
         }
     }
 }

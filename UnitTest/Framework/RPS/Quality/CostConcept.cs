@@ -9,12 +9,15 @@ namespace UnitTest.Framework.RPS.Services.Quality
         [Fact]        
         public void New_UT()
         {
+            /*
             var config = SeleniumConfig.Current;
             using (var screen = new SeleniumGeneratedClasses.Framework.RPS.Services.Quality.CostConcept.CostConcept())
             {
-                // screen.NavigateToScreen<CostConceptCollectionView>();
-                throw new NotImplementedException();
+                screen.NavigateToScreen<CostConceptCollectionView>();
+                
             }
+            */
+            throw new NotImplementedException();
             
         }
     }
@@ -23,12 +26,15 @@ namespace UnitTest.Framework.RPS.Services.Quality
         [Fact]        
         public void Update_UT()
         {
+            /*
             var config = SeleniumConfig.Current;
             using (var screen = new SeleniumGeneratedClasses.Framework.RPS.Services.Quality.CostConcept.CostConcept())
             {
-                // screen.NavigateToScreen<CostConceptCollectionView>();
-                throw new NotImplementedException();
+                screen.NavigateToScreen<CostConceptCollectionView>();
+                
             }
+            */
+            throw new NotImplementedException();
 
         }
     }
@@ -37,12 +43,15 @@ namespace UnitTest.Framework.RPS.Services.Quality
         [Fact]        
         public void Delete_UT()
         {
+            /*
             var config = SeleniumConfig.Current;
             using (var screen = new SeleniumGeneratedClasses.Framework.RPS.Services.Quality.CostConcept.CostConcept())
             {
-                // screen.NavigateToScreen<CostConceptCollectionView>();
-                throw new NotImplementedException();
+                screen.NavigateToScreen<CostConceptCollectionView>();
+                
             }
+            */
+            throw new NotImplementedException();
         }
     }
 }

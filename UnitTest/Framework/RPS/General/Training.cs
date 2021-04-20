@@ -9,12 +9,15 @@ namespace UnitTest.Framework.RPS.Services.General
         [Fact]        
         public void New_UT()
         {
+            /*
             var config = SeleniumConfig.Current;
             using (var screen = new SeleniumGeneratedClasses.Framework.RPS.Services.General.Training.Training())
             {
-                // screen.NavigateToScreen<TrainingCollectionView>();
-                throw new NotImplementedException();
+                screen.NavigateToScreen<TrainingCollectionView>();
+                
             }
+            */
+            throw new NotImplementedException();
             
         }
     }
@@ -23,12 +26,15 @@ namespace UnitTest.Framework.RPS.Services.General
         [Fact]        
         public void Update_UT()
         {
+            /*
             var config = SeleniumConfig.Current;
             using (var screen = new SeleniumGeneratedClasses.Framework.RPS.Services.General.Training.Training())
             {
-                // screen.NavigateToScreen<TrainingCollectionView>();
-                throw new NotImplementedException();
+                screen.NavigateToScreen<TrainingCollectionView>();
+                
             }
+            */
+            throw new NotImplementedException();
 
         }
     }
@@ -37,12 +43,15 @@ namespace UnitTest.Framework.RPS.Services.General
         [Fact]        
         public void Delete_UT()
         {
+            /*
             var config = SeleniumConfig.Current;
             using (var screen = new SeleniumGeneratedClasses.Framework.RPS.Services.General.Training.Training())
             {
-                // screen.NavigateToScreen<TrainingCollectionView>();
-                throw new NotImplementedException();
+                screen.NavigateToScreen<TrainingCollectionView>();
+                
             }
+            */
+            throw new NotImplementedException();
         }
     }
 }
