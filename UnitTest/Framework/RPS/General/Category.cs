@@ -9,15 +9,15 @@ namespace UnitTest.Framework.RPS.Services.General
         [Fact]        
         public void New_UT()
         {
-            /*
+            
             var config = SeleniumConfig.Current;
             using (var screen = new SeleniumGeneratedClasses.Framework.RPS.Services.General.Category.Category())
             {
                 screen.NavigateToScreen<CategoryCollectionView>();
                 
             }
-            */
-            throw new NotImplementedException();
+            
+            //throw new NotImplementedException();
             
         }
     }
