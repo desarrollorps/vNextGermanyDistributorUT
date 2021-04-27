@@ -49,8 +49,8 @@ namespace UnitTest.Framework.RPS.Services.General
             {
                 screen.NavigateToScreen<BankCollectionView>();
                 
-            }
-            */
+            }*/
+            
             throw new NotImplementedException();
         }
     }
