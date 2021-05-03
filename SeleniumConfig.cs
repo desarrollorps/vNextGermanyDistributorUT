@@ -18,7 +18,7 @@ namespace vNextGermanyDistributorUT
             RPSEnvironment.DefaultCodCompany = company;
             if (System.Diagnostics.Debugger.IsAttached)
             {
-                RPSEnvironment.Visible = true;
+                RPSEnvironment.Visible = false;
             }
             else
             {
