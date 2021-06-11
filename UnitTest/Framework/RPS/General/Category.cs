@@ -4,7 +4,7 @@ using System;
 using SeleniumGeneratedClasses.Framework.RPS.Services.General.Category ;
 namespace UnitTest.Framework.RPS.Services.General
 {
-    public class Category_New
+    public class Category_New: BaseTest
     {
         [Fact]        
         public void New_UT()
@@ -27,7 +27,7 @@ namespace UnitTest.Framework.RPS.Services.General
             
         }
     }    
-    public class Category_Update
+    public class Category_Update: BaseTest
     {
         [Fact]        
         public void Update_UT()
@@ -53,7 +53,7 @@ namespace UnitTest.Framework.RPS.Services.General
 
         }
     }
-    public class Category_Delete
+    public class Category_Delete: BaseTest
     {
         [Fact]        
         public void Delete_UT()

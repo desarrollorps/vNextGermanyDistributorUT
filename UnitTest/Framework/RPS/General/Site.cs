@@ -4,7 +4,7 @@ using System;
 using SeleniumGeneratedClasses.Framework.RPS.Services.General.Site ;
 namespace UnitTest.Framework.RPS.Services.General
 {
-    public class Site_New
+    public class Site_New: BaseTest
     {
         [Fact]        
         public void New_UT()
@@ -36,7 +36,7 @@ namespace UnitTest.Framework.RPS.Services.General
         }
     }
     
-    public class Site_Delete
+    public class Site_Delete: BaseTest
     {
         [Fact]        
         public void Delete_UT()
