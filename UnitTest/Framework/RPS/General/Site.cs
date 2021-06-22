@@ -28,11 +28,7 @@ namespace UnitTest.Framework.RPS.Services.General
                     .SaveButton.Click()//Save the changes
                     .BackButton.Click()//Go to the main screen
                     .MainConsult.DescriptorView.Exists();//See if we are in the main screen
-                
             }
-            
-            
-            
         }
     }
     
